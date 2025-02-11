@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Nwafor</h1>
-<h3 align="center">Learning Python, PHP and Javascript/Typescript for Backend development and very passionate about the interesting world of computer programming</h3>
+<h2 align="center">Hi 👋, I'm Emmanuel Nwafor (Emmo00)</h1>
 
 <p align="left"> <a href="https://twitter.com/emma_nwafor1" target="blank"><img src="https://img.shields.io/twitter/follow/emma_nwafor1?logo=twitter&style=for-the-badge" alt="emma_nwafor1" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **nwaforemmanuel005@gmail.com**
 
-## - ⚡ **Let's Go!!!**
+- ⚡ **Let's Go!!!**
 
 <h3>Connect with me:</h3>
 <p>
