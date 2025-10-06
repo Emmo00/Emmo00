@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋, I'm Emmanuel Nwafor (Emmo00)</h1>
-
 <h3>Connect with me:</h3>
 <p>
   <a href="https://farcaster.xyz/emmo00" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/98775309?s=48&v=4" alt="emmo00 Farcaster" height="30" width="40" /></a>
